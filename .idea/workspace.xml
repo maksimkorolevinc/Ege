@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df1c518a-743e-4ae2-88d4-b507a8bf49f1" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/24-й номер/29672.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-й номер/33103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-й номер/33196.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-й номер/33526.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-й номер/35482.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/35913.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/35998.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/36037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/36879.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/37131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/38602.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/38958.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-й номер/39253.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +44,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.35482">
-    <configuration name="29672" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.39253">
+    <configuration name="36037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ege" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/29672.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/36037.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="33103" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="37131" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ege" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/33103.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/37131.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="33196" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="38602" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ege" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/33196.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/38602.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="33526" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="38958" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ege" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/33526.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/38958.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="35482" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="39253" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Ege" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/35482.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-й номер/39253.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,19 +173,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.29672" />
-      <item itemvalue="Python.33103" />
-      <item itemvalue="Python.33196" />
-      <item itemvalue="Python.33526" />
-      <item itemvalue="Python.35482" />
+      <item itemvalue="Python.36037" />
+      <item itemvalue="Python.37131" />
+      <item itemvalue="Python.38602" />
+      <item itemvalue="Python.38958" />
+      <item itemvalue="Python.39253" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.35482" />
-        <item itemvalue="Python.33526" />
-        <item itemvalue="Python.33196" />
-        <item itemvalue="Python.33103" />
-        <item itemvalue="Python.29672" />
+        <item itemvalue="Python.39253" />
+        <item itemvalue="Python.38958" />
+        <item itemvalue="Python.38602" />
+        <item itemvalue="Python.37131" />
+        <item itemvalue="Python.36037" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658139713160</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1658150092644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658150092644</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
